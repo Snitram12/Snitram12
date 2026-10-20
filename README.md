@@ -1,8 +1,4 @@
-## Hi there 👋
-
-<!--
-**Snitram12/Snitram12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<div align="center">
-  <img src="assets/banner.svg" alt="Martins — Engenharia de Computação na UFC, desenvolvimento de software e soluções com propósito" width="100%" />
+ <img src="assets/banner.svg" alt="Martins — Engenharia de Computação na UFC, desenvolvimento de software e soluções com propósito" width="100%" />
 
   <h2>Olá, eu sou o Martins! 👋</h2>
   <p>
