@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="356" viewBox="0 0 1280 356" role="img" aria-labelledby="title desc">
+  <title id="title">Martins — Engenharia de Computação e Desenvolvimento de Software</title>
+  <desc id="desc">Banner com gradiente azul escuro e verde água, identificação de Martins e uma janela estilizada de código.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0a1020"/>
+      <stop offset="0.55" stop-color="#111b31"/>
+      <stop offset="1" stop-color="#0b2535"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#62e7d7"/>
+      <stop offset="1" stop-color="#69a5ff"/>
+    </linearGradient>
+    <linearGradient id="filler" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#183957"/>
+      <stop offset="1" stop-color="#1c3442"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#29425d" stroke-opacity="0.18" stroke-width="1"/>
+    </pattern>
+    <clipPath id="rounded"><rect width="1280" height="356" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="1280" height="356" fill="url(#bg)"/>
+    <rect width="1280" height="356" fill="url(#grid)"/>
+    <circle cx="1170" cy="-50" r="270" fill="#0b8d9d" fill-opacity="0.08"/>
+    <circle cx="780" cy="380" r="230" fill="#4568dd" fill-opacity="0.08"/>
+    <path d="M0 355 C280 270 350 398 600 321 S990 285 1280 350" stroke="#4d95b9" stroke-opacity="0.12" fill="none" stroke-width="2"/>
+    <path d="M0 0 H1280" stroke="url(#line)" stroke-width="7"/>
+    <rect x="80" y="74" width="166" height="32" rx="16" fill="#193342" stroke="#2e6878" stroke-width="1.5"/>
+    <circle cx="98" cy="90" r="5" fill="#68ecd6"/>
+    <text x="114" y="96" fill="#b8ecf2" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">HELLO, WORLD!</text>
+    <text x="76" y="194" font-family="Segoe UI, Arial, sans-serif" font-size="99" font-weight="800" letter-spacing="1" fill="#f5faff">MARTINS</text>
+    <rect x="81" y="213" width="74" height="5" rx="2" fill="url(#line)"/>
+    <text x="81" y="254" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="500" fill="#cdd9e7">Engenharia de Computação <tspan fill="#6ce5d7">/</tspan> UFC</text>
+    <text x="82" y="292" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#90aabd" letter-spacing="1.2">SOFTWARE  ·  WEB  ·  SOLUÇÕES COM PROPÓSITO</text>
+    <g transform="translate(794,53)">
+      <rect width="413" height="254" rx="16" fill="#111827" stroke="#345069" stroke-width="2"/>
+      <path d="M16 0H397Q413 0 413 16V47H0V16Q0 0 16 0Z" fill="#1b2a3e"/>
+      <circle cx="25" cy="24" r="6" fill="#fe7c80"/>
+      <circle cx="47" cy="24" r="6" fill="#f4c55f"/>
+      <circle cx="69" cy="24" r="6" fill="#5ece98"/>
+      <text x="162" y="30" font-family="Consolas, Monaco, monospace" font-size="15" fill="#a8bdcf">martins.ts</text>
+      <g font-family="Consolas, Monaco, monospace" font-size="19">
+        <text x="25" y="91" fill="#7bc3ff">const <tspan fill="#f2d68a">developer</tspan><tspan fill="#d5e2ef"> = {</tspan></text>
+        <text x="43" y="130" fill="#b4c8dd">focus: <tspan fill="#a0e7c9">'software'</tspan><tspan fill="#d5e2ef">,</tspan></text>
+        <text x="43" y="169" fill="#b4c8dd">work: <tspan fill="#a0e7c9">'impacto real'</tspan><tspan fill="#d5e2ef">,</tspan></text>
+        <text x="43" y="208" fill="#b4c8dd">mode: <tspan fill="#a0e7c9">'learning'</tspan></text>
+        <text x="25" y="237" fill="#d5e2ef">};</text>
+      </g>
+    </g>
+    <path d="M1268 22V335" stroke="#6ae5d4" stroke-opacity="0.25" stroke-width="3"/>
+  </g>
+</svg>
