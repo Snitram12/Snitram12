@@ -9,9 +9,11 @@
   <a href="https://github.com/Snitram12">
     <img src="https://img.shields.io/badge/GitHub-Snitram12-172b40?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de Martins no GitHub" />
   </a>
+
   <a href="https://inclusivamente-matematica.vercel.app/">
     <img src="https://img.shields.io/badge/Conheça_um_projeto-3D_interativo-087e8b?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar demonstração do projeto InclusivaMente Matemática" />
   </a>
+
   <a href="martins.antoniordc@gmail.com">
     <img src="https://img.shields.io/badge/E-mail-087e8b?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar E-mail de Martins" />
   </a>
